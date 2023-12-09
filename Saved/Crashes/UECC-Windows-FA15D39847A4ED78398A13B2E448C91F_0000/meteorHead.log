@@ -1,0 +1,1456 @@
+﻿Log file open, 12/08/23 16:38:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=2184)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: meteorHead
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/Will/Documents/Unreal Projects/meteorHead/meteorHead.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2715] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="dcb4bf3c44d3438e1717adb0d9ec90cd"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.261161
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-FA15D39847A4ED78398A13B2E448C91F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2715] (), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.12.08-21.38.18:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.12.08-21.38.18:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.12.08-21.38.18:670][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.12.08-21.38.18:672][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.12.08-21.38.18:686][  0]LogD3D12RHI: Aftermath initialized
+[2023.12.08-21.38.18:686][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.12.08-21.38.18:891][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3050 Ti Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.12.08-21.38.18:891][  0]LogD3D12RHI: Adapter has 3978MB of dedicated video memory, 0MB of dedicated system memory, and 7094MB of shared system memory, 1 output[s]
+[2023.12.08-21.38.18:965][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.12.08-21.38.18:965][  0]LogD3D12RHI: Adapter has 2031MB of dedicated video memory, 0MB of dedicated system memory, and 7094MB of shared system memory, 0 output[s]
+[2023.12.08-21.38.18:973][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.12.08-21.38.18:973][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7094MB of shared system memory, 0 output[s]
+[2023.12.08-21.38.19:047][  0]LogD3D12RHI: Found D3D12 adapter 3: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.12.08-21.38.19:047][  0]LogD3D12RHI: Adapter has 2031MB of dedicated video memory, 0MB of dedicated system memory, and 7094MB of shared system memory, 0 output[s]
+[2023.12.08-21.38.19:047][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.12.08-21.38.19:047][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.12.08-21.38.19:047][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.12.08-21.38.19:047][  0]LogHAL: Display: Platform has ~ 14 GB [14877257728 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.12.08-21.38.19:047][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.12.08-21.38.19:047][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.12.08-21.38.19:047][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.12.08-21.38.19:047][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.12.08-21.38.19:047][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Will/Documents/Unreal Projects/meteorHead/Saved/Config/WindowsEditor/Editor.ini]
+[2023.12.08-21.38.19:047][  0]LogInit: Computer: DESKTOP-DL52PQJ
+[2023.12.08-21.38.19:047][  0]LogInit: User: Will
+[2023.12.08-21.38.19:047][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.12.08-21.38.19:047][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.12.08-21.38.19:047][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2023.12.08-21.38.19:047][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.12.08-21.38.19:047][  0]LogMemory: Process Physical Memory: 273.18 MB used, 304.79 MB peak
+[2023.12.08-21.38.19:047][  0]LogMemory: Process Virtual Memory: 233.12 MB used, 233.12 MB peak
+[2023.12.08-21.38.19:047][  0]LogMemory: Physical Memory: 7908.97 MB used,  6279.09 MB free, 14188.06 MB total
+[2023.12.08-21.38.19:048][  0]LogMemory: Virtual Memory: 12431.88 MB used,  5212.18 MB free, 17644.06 MB total
+[2023.12.08-21.38.19:048][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.12.08-21.38.19:055][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.12.08-21.38.19:073][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.12.08-21.38.19:074][  0]LogInit: Using OS detected language (en-US).
+[2023.12.08-21.38.19:074][  0]LogInit: Using OS detected locale (en-US).
+[2023.12.08-21.38.19:081][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.12.08-21.38.19:227][  0]LogInit: Setting process to per monitor DPI aware
+[2023.12.08-21.38.19:239][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.12.08-21.38.19:240][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.12.08-21.38.19:240][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.12.08-21.38.19:240][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.12.08-21.38.19:253][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.12.08-21.38.19:253][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.12.08-21.38.19:364][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.12.08-21.38.19:368][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.12.08-21.38.19:368][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.12.08-21.38.19:468][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.12.08-21.38.19:470][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.12.08-21.38.19:518][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.12.08-21.38.19:526][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.12.08-21.38.19:548][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.12.08-21.38.19:561][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.12.08-21.38.19:561][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.12.08-21.38.19:586][  0]LogD3D12RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2023.12.08-21.38.19:586][  0]LogWindows: Attached monitors:
+[2023.12.08-21.38.19:586][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.12.08-21.38.19:586][  0]LogWindows: Found 1 attached monitors.
+[2023.12.08-21.38.19:586][  0]LogWindows: EnumDisplayDevices:
+[2023.12.08-21.38.19:586][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.12.08-21.38.19:586][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.12.08-21.38.19:587][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.12.08-21.38.19:587][  0]LogWindows:    3. 'Easy&Light Display HUB Virtual Display' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.12.08-21.38.19:587][  0]LogWindows:    4. 'Easy&Light Display HUB Virtual Display' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.12.08-21.38.19:587][  0]LogWindows:    5. 'Easy&Light Display HUB Virtual Display' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.12.08-21.38.19:587][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.12.08-21.38.19:587][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.12.08-21.38.19:587][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.12.08-21.38.19:587][  0]LogD3D12RHI:      Driver Date: Unknown
+[2023.12.08-21.38.19:587][  0]LogRHI: Texture pool is 2130 MB (70% of 3043 MB)
+[2023.12.08-21.38.19:587][  0]LogD3D12RHI: Async texture creation enabled
+[2023.12.08-21.38.19:587][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.12.08-21.38.19:599][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.12.08-21.38.19:606][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Will/Documents/Unreal Projects/meteorHead/meteorHead.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Will/Documents/Unreal Projects/meteorHead/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Will/Documents/Unreal Projects/meteorHead/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Will/Documents/Unreal Projects/meteorHead/meteorHead.uproject"  -platform=all'
+[2023.12.08-21.38.19:606][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Will/Documents/Unreal Projects/meteorHead/meteorHead.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Will/Documents/Unreal Projects/meteorHead/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Will/Documents/Unreal Projects/meteorHead/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Will/Documents/Unreal Projects/meteorHead/meteorHead.uproject"  -platform=all" ]
+[2023.12.08-21.38.19:631][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.12.08-21.38.19:638][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.12.08-21.38.19:638][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.12.08-21.38.19:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.12.08-21.38.19:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.12.08-21.38.19:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.12.08-21.38.19:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.12.08-21.38.19:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.12.08-21.38.19:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.12.08-21.38.19:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.12.08-21.38.19:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.12.08-21.38.19:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.12.08-21.38.19:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.12.08-21.38.19:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.12.08-21.38.19:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.12.08-21.38.19:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.12.08-21.38.19:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.12.08-21.38.19:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.12.08-21.38.19:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.12.08-21.38.19:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.12.08-21.38.19:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.12.08-21.38.19:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.12.08-21.38.19:683][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.12.08-21.38.19:692][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.12.08-21.38.19:694][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.12.08-21.38.19:694][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.12.08-21.38.19:694][  0]LogTargetPlatformManager:   ADPCM
+[2023.12.08-21.38.19:694][  0]LogTargetPlatformManager:   PCM
+[2023.12.08-21.38.19:696][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.12.08-21.38.19:696][  0]LogTargetPlatformManager:   BINKA
+[2023.12.08-21.38.19:696][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.12.08-21.38.19:696][  0]LogTargetPlatformManager:   OGG
+[2023.12.08-21.38.19:696][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.12.08-21.38.19:696][  0]LogTargetPlatformManager:   OPUS
+[2023.12.08-21.38.19:733][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.12.08-21.38.19:733][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   SF_METAL
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.12.08-21.38.19:739][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.12.08-21.38.19:743][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.12.08-21.38.19:743][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.12.08-21.38.19:743][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.12.08-21.38.19:743][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.12.08-21.38.19:743][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.12.08-21.38.19:743][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.12.08-21.38.19:743][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.12.08-21.38.19:743][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.12.08-21.38.19:743][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.12.08-21.38.19:743][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.12.08-21.38.19:743][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.12.08-21.38.19:744][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.12.08-21.38.19:746][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.12.08-21.38.19:746][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.12.08-21.38.19:746][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.08-21.38.19:746][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.12.08-21.38.19:764][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.12.08-21.38.19:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.08-21.38.19:764][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.12.08-21.38.19:770][  0]LogDerivedDataCache: Speed tests for C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.12.08-21.38.19:770][  0]LogDerivedDataCache: Display: Performance to C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1496.12MBs, RandomWriteSpeed=186.01MBs. Assigned SpeedClass 'Local'
+[2023.12.08-21.38.19:771][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.12.08-21.38.19:771][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.12.08-21.38.19:771][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.12.08-21.38.19:778][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.12.08-21.38.19:778][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.12.08-21.38.19:779][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/Intermediate/Shaders/WorkingDirectory/8600/).
+[2023.12.08-21.38.19:779][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Will/AppData/Local/Temp/UnrealShaderWorkingDir/ACE559B84A0ED1F56E225295D76227DE/'.
+[2023.12.08-21.38.19:779][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.12.08-21.38.19:779][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.12.08-21.38.20:923][  0]LogSlate: Using FreeType 2.10.0
+[2023.12.08-21.38.20:923][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.12.08-21.38.20:967][  0]LogAssetRegistry: FAssetRegistry took 0.0101 seconds to start up
+[2023.12.08-21.38.20:972][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.12.08-21.38.21:132][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.12.08-21.38.21:132][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.12.08-21.38.21:336][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.12.08-21.38.21:336][  0]LogDeviceProfileManager: Active device profile: [000008E0AD2D6900][000008E0A16F2800 50] WindowsEditor
+[2023.12.08-21.38.21:336][  0]LogDeviceProfileManager: Profiles: [000008E0AD2D63C0][000008E08D725000 50] Windows, [000008E0AD2D6900][000008E0A16F2800 50] WindowsEditor, [000008E0AD2D4B40][000008E0A16AA000 50] WindowsServer, [000008E0AD2D3F00][000008E0AD5A0000 50] WindowsClient, [000008E0AD2D2F40][000008E0AD5A5000 50] IOS, [000008E0AD2D3D40][000008E0AD5A7800 50] iPadAir2, [000008E0AD2D7000][000008E0AD5AC800 50] IPadPro, [000008E0AD2D7380][000008E0AD5AA000 50] iPadAir3, [000008E0AD2D5400][000008E0A0C92800 50] iPadAir4, [000008E0AD2D6E40][000008E0AD5B0000 50] iPadMini4, [000008E0AD2D1880][000008E0AD5B5000 50] iPadMini5, [000008E0AD2D6040][000008E0AD5B7800 50] iPadMini6, [000008E0AD2D9D80][000008E0AD5A2800 50] iPhone6S, [000008E0AD2DA100][000008E0AD5BC800 50] iPhone7, [000008E0AD2DA480][000008E0AD5BA000 50] iPodTouch7, [000008E0AD2D40C0][000008E0AD5E0000 50] iPhone6SPlus, [000008E0AD2D9A00][000008E0AD5E5000 50] iPhone7Plus, [000008E0AD2D3480][000008E0AD5E7800 50] iPhoneSE, [000008E0AD2D6AC0][000008E0AD5EA000 50] iPhone8, [000008E0AD2D8C00][000008E0AD5EC800 50] iPhone8Plus, [000008E0AD2D4600][000008E0AD5B2800 50] iPhoneX, [000008E0AD2DA640][000008E0AD600000 50] iPhoneXS, [000008E0AD2D9300][000008E0AD605000 50] iPhoneXSMax, [000008E0AD2D71C0][000008E0AD607800 50] iPhoneXR, [000008E0AD2D7C40][000008E0AD60A000 50] iPhone11, [000008E0AD2D8340][000008E0AD60C800 50] iPhone11Pro, [000008E0AD2D55C0][000008E0AD5E2800 50] iPhone11ProMax, [000008E0AD2D7A80][000008E0AD610000 50] iPhoneSE2, [000008E0AD2D7E00][000008E0AD615000 50] iPhone12Mini, [000008E0AD2D39C0][000008E0AD617800 50] iPhone12, [000008E0AD2D9BC0][000008E0AD61A000 50] iPhone12Pro, [000008E0AD2D3640][000008E0AD61C800 50] iPhone12ProMax, [000008E0AD2D9680][000008E0AD602800 50] iPhone13Mini, [000008E0AD2D5940][000008E0AD620000 50] iPhone13, [000008E0AD2D9140][000008E0AD625000 50] iPhone13Pro, [000008E0AD2D1F80][000008E0AD627800 50] iPhone13ProMax, [000008E0AD2D3100][000008E0AD62A000 50] iPadPro105, [000008E0AD2D2300][000008E0AD62C800 50] iPadPro129, [000008E0AD2D94C0][000008E0AD612800 50] iPadPro97, [000008E0AD2D4980][000008E0AD630000 50] iPadPro2_129, [000008E0AD2D4D00][000008E0AD635000 50] iPad5, [000008E0AD2D4EC0][000008E0AD637800 50] iPad6, [000008E0AD2D3B80][000008E0AD63A000 50] iPad7, [000008E0AD2D8F80][000008E0AD63C800 50] iPad8, [000008E0AD2D2680][000008E0AD622800 50] iPad9, [000008E0AD2D4280][000008E0AD640000 50] iPadPro11, [000008E0AD2D2BC0][000008E0AD645000 50] iPadPro2_11, [000008E0AD2D8180][000008E0AD647800 50] iPadPro3_11, [000008E0AD2D6C80][000008E0AD64A000 50] iPadPro3_129, [000008E0AD2D5240][000008E0AD64C800 50] iPadPro4_129, [000008E0AD2D78C0][000008E0AD632800 50] iPadPro5_129, [000008E0AD2D2A00][000008E0AD650000 50] AppleTV, [000008E0AD2D7FC0][000008E0AD655000 50] AppleTV4K, [000008E0AD2D7540][000008E0AD657800 50] TVOS, [000008E0AD2DBEC0][000008E0AD65C800 50] Mac, [000008E0AD2DC240][000008E0AD65A000 50] MacEditor, [000008E0AD2DB280][000008E0AD642800 50] MacClient, [000008E0AD2D9F40][000008E0AD660000 50] MacServer, [000008E0AD2DC400][000008E0AD667800 50] Linux, [000008E0AD2D2840][000008E0AD665000 50] LinuxEditor, [000008E0AD2DAF00][000008E0AD66A000 50] LinuxArm64Editor, [000008E0AD2D5B00][000008E0AD66C800 50] LinuxArm64, [000008E0AD2D2140][000008E0AD652800 50] LinuxClient, [000008E0AD2D6200][000008E0AD670000 50] LinuxArm64Client, [000008E0AD2D8880][000008E0AD675000 50] LinuxServer, [000008E0AD2D32C0][000008E0AD677800 50] LinuxArm64Server, [000008E0AD2D1DC0][000008E0AD67A000 50] Android, [000008E0AD2DBB40][000008E0AD67C800 50] Android_Preview_OpenGL, [000008E0AD2DB440][000008E0AD662800 50] Android_Preview_Vulkan, [000008E0AD2DA9C0][000008E0AD680000 50] Android_Low, [000008E0AD2D8500][000008E0AD685000 50] Android_Mid, [000008E0AD2D5080][000008E0AD687800 50] Android_High, [000008E0AD2DAB80][000008E0AD68A000 50] Android_Default, [000008E0AD2D47C0][000008E0AD68C800 50] Android_Adreno4xx, [000008E0AD2DB980][000008E0AD672800 50] Android_Adreno5xx_Low, [000008E0AD2D24C0][000008E0AD690000 50] Android_Adreno5xx, [000008E0AD2DC780][000008E0AD695000 50] Android_Adreno6xx, [000008E0AD2DB7C0][000008E0AD697800 50] Android_Adreno6xx_Vulkan, [000008E0AD2D6740][000008E0AD69A000 50] Android_Adreno7xx, [000008E0AD2DA800][000008E0AD69C800 50] Android_Adreno7xx_Vulkan, [000008E0AD2DB0C0][000008E0AD682800 50] Android_Mali_T6xx, [000008E0AD2D86C0][000008E0AD6A0000 50] Android_Mali_T7xx, [000008E0AD2DC5C0][000008E0AD6A5000 50] Android_Mali_T8xx, [000008E0AD2DC940][000008E0AD6A7800 50] Android_Mali_G71, [000008E0AD2D3800][000008E0AD6AA000 50] Android_Mali_G72, [000008E0AD2D5E80][000008E0AD6AC800 50] Android_Mali_G72_Vulkan, [000008E0AD2D9840][000008E0AD692800 50] Android_Mali_G76, [000008E0AD2D8DC0][000008E0AD6B0000 50] Android_Mali_G76_Vulkan, [000008E0AD2DD3C0][000008E0AD6B5000 50] Android_Mali_G77, [000008E0AD2DA2C0][000008E0AD6B7800 50] Android_Mali_G77_Vulkan, [000008E0AD2DD740][000008E0AD6BA000 50] Android_Mali_G78, [000008E0AD2DD900][000008E0AD6BC800 50] Android_Mali_G78_Vulkan, [000008E0AD2DCE80][000008E0AD6A2800 50] Android_Mali_G710, [000008E0AD2DCB00][000008E0AD6C0000 50] Android_Mali_G710_Vulkan, [000008E0AD2D7700][000008E0AD6C5000 50] Android_Xclipse_920, [000008E0AD2D8A40][000008E0AD6C7800 50] Android_Xclipse_920_Vulkan, [000008E0AD2DB600][000008E0AD6CA000 50] Android_Vulkan_SM5, [000008E0AD2DE380][000008E0AD6CC800 50] Android_PowerVR_G6xxx, [000008E0AD2DDE40][000008E0AD6B2800 50] Android_PowerVR_GT7xxx, [000008E0AD2DE8C0][000008E0AD6D0000 50] Android_PowerVR_GE8xxx, [000008E0AD2DE1C0][000008E0AD6D5000 50] Android_PowerVR_GM9xxx, [000008E0AD2D2D80][000008E0AD6D7800 50] Android_PowerVR_GM9xxx_Vulkan, [000008E0AD2DE540][000008E0AD6DA000 50] Android_TegraK1, [000008E0AD2D5780][000008E0AD6DC800 50] Android_Unknown_Vulkan, [000008E0AD2D5CC0][000008E0AD6C2800 50] Oculus_Quest, [000008E0AD2DF340][000008E0AD6E0000 50] Oculus_Quest2, [000008E0AD2DEA80][000008E0AD6E5000 50] HoloLens, 
+[2023.12.08-21.38.21:336][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.12.08-21.38.21:356][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.12.08-21.38.21:515][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.12.08-21.38.21:515][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.12.08-21.38.21:515][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.12.08-21.38.21:515][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.12.08-21.38.21:515][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.12.08-21.38.21:528][  0]LogNetVersion: meteorHead 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2192947777)
+[2023.12.08-21.38.21:635][  0]LogSlate: Border
+[2023.12.08-21.38.21:635][  0]LogSlate: BreadcrumbButton
+[2023.12.08-21.38.21:635][  0]LogSlate: Default
+[2023.12.08-21.38.21:635][  0]LogSlate: Icons.Save
+[2023.12.08-21.38.21:635][  0]LogSlate: Icons.Toolbar.Settings
+[2023.12.08-21.38.21:635][  0]LogSlate: ListView
+[2023.12.08-21.38.21:635][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.12.08-21.38.21:635][  0]LogSlate: SoftwareCursor_Grab
+[2023.12.08-21.38.21:635][  0]LogSlate: TableView.DarkRow
+[2023.12.08-21.38.21:635][  0]LogSlate: TableView.Row
+[2023.12.08-21.38.21:635][  0]LogSlate: TreeView
+[2023.12.08-21.38.21:783][  0]SourceControl: Source control is disabled
+[2023.12.08-21.38.21:806][  0]SourceControl: Source control is disabled
+[2023.12.08-21.38.21:806][  0]SourceControl: Source control is disabled
+[2023.12.08-21.38.21:917][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.12.08-21.38.21:917][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.12.08-21.38.21:917][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.12.08-21.38.22:279][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B6262E884EDA02CC92D6FBA574E688FA | Instance: AE533D5C4AA15ED2D89EDCB8EA33F763 (DESKTOP-DL52PQJ-8600).
+[2023.12.08-21.38.22:319][  0]LogPython: Using Python 3.9.7
+[2023.12.08-21.38.23:206][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.12.08-21.38.23:217][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.12.08-21.38.23:816][  0]LogOpenImageDenoise: OIDN starting up
+[2023.12.08-21.38.23:883][  0]SourceControl: Source control is disabled
+[2023.12.08-21.38.23:888][  0]SourceControl: Source control is disabled
+[2023.12.08-21.38.23:897][  0]SourceControl: Source control is disabled
+[2023.12.08-21.38.23:901][  0]LogUProjectInfo: Found projects:
+[2023.12.08-21.38.23:933][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.12.08-21.38.23:963][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.08-21.38.23:963][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.08-21.38.24:091][  0]LogCollectionManager: Loaded 0 collections in 0.002310 seconds
+[2023.12.08-21.38.24:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Will/Documents/Unreal Projects/meteorHead/Saved/Collections/' took 0.00s
+[2023.12.08-21.38.24:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Will/Documents/Unreal Projects/meteorHead/Content/Developers/Will/Collections/' took 0.00s
+[2023.12.08-21.38.24:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Will/Documents/Unreal Projects/meteorHead/Content/Collections/' took 0.00s
+[2023.12.08-21.38.24:496][  0]LogEngine: Initializing Engine...
+[2023.12.08-21.38.24:506][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.12.08-21.38.24:510][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.12.08-21.38.24:804][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.12.08-21.38.24:805][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.08-21.38.24:820][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-21.38.24:848][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.12.08-21.38.24:848][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.12.08-21.38.24:871][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.12.08-21.38.24:872][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.12.08-21.38.24:872][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.12.08-21.38.24:872][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.12.08-21.38.24:872][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.12.08-21.38.24:872][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.08-21.38.24:872][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.08-21.38.24:872][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.08-21.38.24:872][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.08-21.38.24:872][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.08-21.38.24:872][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.08-21.38.24:872][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.08-21.38.24:872][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.08-21.38.24:873][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.08-21.38.24:873][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.08-21.38.24:873][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.08-21.38.24:883][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.08-21.38.24:961][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.08-21.38.24:962][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.08-21.38.24:964][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.08-21.38.24:964][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.08-21.38.24:964][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.12.08-21.38.24:964][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.08-21.38.24:967][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.08-21.38.24:967][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.12.08-21.38.24:967][  0]LogInit: FAudioDevice initialized.
+[2023.12.08-21.38.24:967][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.12.08-21.38.24:968][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.12.08-21.38.24:968][  0]LogInit: Texture streaming: Enabled
+[2023.12.08-21.38.25:004][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.12.08-21.38.25:015][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.12.08-21.38.25:038][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.12.08-21.38.25:050][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.12.08-21.38.25:051][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.12.08-21.38.26:506][  0]LogLiveCoding: Display: First instance in process group "UE_meteorHead_0x78a23550", spawning console
+[2023.12.08-21.38.26:506][  0]LogLiveCoding: Display: Waiting for server
+[2023.12.08-21.38.26:506][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.12.08-21.38.26:533][  0]LogInit: Transaction tracking system initialized
+[2023.12.08-21.38.26:606][  0]BlueprintLog: New page: Editor Load
+[2023.12.08-21.38.26:806][  0]LocalizationService: Localization service is disabled
+[2023.12.08-21.38.26:854][  0]TimingProfiler: Initialize
+[2023.12.08-21.38.26:854][  0]TimingProfiler: OnSessionChanged
+[2023.12.08-21.38.26:854][  0]LoadingProfiler: Initialize
+[2023.12.08-21.38.26:855][  0]LoadingProfiler: OnSessionChanged
+[2023.12.08-21.38.26:855][  0]NetworkingProfiler: Initialize
+[2023.12.08-21.38.26:855][  0]NetworkingProfiler: OnSessionChanged
+[2023.12.08-21.38.26:855][  0]MemoryProfiler: Initialize
+[2023.12.08-21.38.26:855][  0]MemoryProfiler: OnSessionChanged
+[2023.12.08-21.38.27:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Will/Documents/Unreal Projects/meteorHead/Content/' took 0.01s
+[2023.12.08-21.38.27:486][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.12.08-21.38.27:626][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.12.08-21.38.27:628][  0]SourceControl: Source control is disabled
+[2023.12.08-21.38.27:628][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.190
+[2023.12.08-21.38.27:629][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.08-21.38.27:629][  0]LightingResults: New page: Lighting Build
+[2023.12.08-21.38.27:634][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.12.08-21.38.27:634][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-21.38.27:634][  0]MapCheck: New page: Map Check
+[2023.12.08-21.38.27:634][  0]LightingResults: New page: Lighting Build
+[2023.12.08-21.38.27:640][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.08-21.38.27:643][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.08-21.38.28:079][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.12.08-21.38.28:090][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-21.38.28:091][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.08-21.38.28:091][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.08-21.38.28:091][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.12.08-21.38.28:162][  0]LogWorldPartition: Display: WorldPartition initialize took 70 ms
+[2023.12.08-21.38.28:164][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.08-21.38.28:172][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.08-21.38.28:172][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.08-21.38.28:172][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2023.12.08-21.38.28:172][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.545
+[2023.12.08-21.38.28:186][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.748
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: ================================================
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.08-21.38.28:186][  0]LogShaderCompilers: Display: ================================================
+[2023.12.08-21.38.28:284][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.08-21.38.28:290][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.08-21.38.28:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.08-21.38.28:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.08-21.38.28:361][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:361][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:362][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:362][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:363][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:363][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:363][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:363][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:364][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:364][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:364][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:364][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:365][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:365][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:365][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:365][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:365][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:365][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:366][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.12.08-21.38.28:366][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.08-21.38.28:366][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.12.08-21.38.28:642][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.08-21.38.28:646][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.08-21.38.28:646][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.08-21.38.28:660][  0]LogViewport: Scene viewport resized to 1523x848, mode Windowed.
+[2023.12.08-21.38.31:933][  0]LogStall: Startup...
+[2023.12.08-21.38.31:934][  0]LogStall: Startup complete.
+[2023.12.08-21.38.31:947][  0]LogLoad: (Engine Initialization) Total time: 14.51 seconds
+[2023.12.08-21.38.31:947][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.12.08-21.38.32:095][  0]LogAssetRegistry: Asset discovery search completed in 11.1292 seconds
+[2023.12.08-21.38.32:099][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.12.08-21.38.32:100][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.12.08-21.39.45:339][642]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.12.08-21.39.45:340][642]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.08-21.39.45:346][642]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.08-21.39.49:560][753]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Will/Downloads/meteorHead.fbx)
+[2023.12.08-21.39.49:569][753]LogFbx: Loading FBX Scene from ../../../../../../Users/Will/Downloads/meteorHead.fbx
+[2023.12.08-21.39.49:589][753]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.08-21.40.00:002][753]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.08-21.40.00:027][753]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture.charTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.40.00:030][753]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A94430B5BEA4E5430D3E2E2FFD8D224AC9F5F9C), compiling. 
+[2023.12.08-21.40.00:033][753]LogFbx: Display: Triangulating static mesh sphere
+[2023.12.08-21.40.00:036][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere...
+[2023.12.08-21.40.00:041][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_sphere.meteorHead_sphere
+[2023.12.08-21.40.00:120][753]LogFbx: Display: Triangulating static mesh sphere.000
+[2023.12.08-21.40.00:121][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere_000...
+[2023.12.08-21.40.00:126][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_sphere_000.meteorHead_sphere_000
+[2023.12.08-21.40.00:133][753]LogFbx: Display: Triangulating static mesh sphere.001
+[2023.12.08-21.40.00:135][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere_001...
+[2023.12.08-21.40.00:140][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_sphere_001.meteorHead_sphere_001
+[2023.12.08-21.40.00:148][753]LogFbx: Display: Triangulating static mesh sphere.002
+[2023.12.08-21.40.00:149][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere_002...
+[2023.12.08-21.40.00:155][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_sphere_002.meteorHead_sphere_002
+[2023.12.08-21.40.00:160][753]LogFbx: Display: Triangulating static mesh sphere.003
+[2023.12.08-21.40.00:162][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere_003...
+[2023.12.08-21.40.00:168][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_sphere_003.meteorHead_sphere_003
+[2023.12.08-21.40.00:174][753]LogFbx: Display: Triangulating static mesh sphere.004
+[2023.12.08-21.40.00:176][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere_004...
+[2023.12.08-21.40.00:180][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_sphere_004.meteorHead_sphere_004
+[2023.12.08-21.40.00:187][753]LogFbx: Display: Triangulating static mesh sphere.005
+[2023.12.08-21.40.00:189][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere_005...
+[2023.12.08-21.40.00:193][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_sphere_005.meteorHead_sphere_005
+[2023.12.08-21.40.00:200][753]LogFbx: Display: Triangulating static mesh sphere.006
+[2023.12.08-21.40.00:202][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere_006...
+[2023.12.08-21.40.00:207][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_sphere_006.meteorHead_sphere_006
+[2023.12.08-21.40.00:211][753]LogFbx: Display: Triangulating static mesh sphere.007
+[2023.12.08-21.40.00:214][753]LogStaticMesh: Display: Building static mesh meteorHead_sphere_007...
+[2023.12.08-21.40.00:219][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_sphere_007.meteorHead_sphere_007
+[2023.12.08-21.40.00:229][753]LogFbx: Display: Triangulating static mesh upper
+[2023.12.08-21.40.00:231][753]LogStaticMesh: Display: Building static mesh meteorHead_upper...
+[2023.12.08-21.40.00:236][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_upper.meteorHead_upper
+[2023.12.08-21.40.00:242][753]LogFbx: Display: Triangulating static mesh lower
+[2023.12.08-21.40.00:244][753]LogStaticMesh: Display: Building static mesh meteorHead_lower...
+[2023.12.08-21.40.00:248][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_lower.meteorHead_lower
+[2023.12.08-21.40.00:254][753]LogFbx: Display: Triangulating static mesh right
+[2023.12.08-21.40.00:256][753]LogStaticMesh: Display: Building static mesh meteorHead_right...
+[2023.12.08-21.40.00:262][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_right.meteorHead_right
+[2023.12.08-21.40.00:268][753]LogFbx: Display: Triangulating static mesh back
+[2023.12.08-21.40.00:269][753]LogStaticMesh: Display: Building static mesh meteorHead_back...
+[2023.12.08-21.40.00:272][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_back.meteorHead_back
+[2023.12.08-21.40.00:278][753]LogFbx: Display: Triangulating static mesh left
+[2023.12.08-21.40.00:281][753]LogStaticMesh: Display: Building static mesh meteorHead_left...
+[2023.12.08-21.40.00:286][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_left.meteorHead_left
+[2023.12.08-21.40.00:294][753]LogFbx: Display: Triangulating static mesh cuboid
+[2023.12.08-21.40.00:295][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid...
+[2023.12.08-21.40.00:300][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_cuboid.meteorHead_cuboid
+[2023.12.08-21.40.00:306][753]LogFbx: Display: Triangulating static mesh cuboid.000
+[2023.12.08-21.40.00:307][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_000...
+[2023.12.08-21.40.00:309][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_000.meteorHead_cuboid_000
+[2023.12.08-21.40.00:316][753]LogFbx: Display: Triangulating static mesh cuboid.001
+[2023.12.08-21.40.00:317][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_001...
+[2023.12.08-21.40.00:321][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_001.meteorHead_cuboid_001
+[2023.12.08-21.40.00:326][753]LogFbx: Display: Triangulating static mesh cuboid.002
+[2023.12.08-21.40.00:327][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_002...
+[2023.12.08-21.40.00:331][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_002.meteorHead_cuboid_002
+[2023.12.08-21.40.00:336][753]LogFbx: Display: Triangulating static mesh cuboid.003
+[2023.12.08-21.40.00:338][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_003...
+[2023.12.08-21.40.00:342][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_003.meteorHead_cuboid_003
+[2023.12.08-21.40.00:347][753]LogFbx: Display: Triangulating static mesh cuboid.004
+[2023.12.08-21.40.00:348][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_004...
+[2023.12.08-21.40.00:351][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_004.meteorHead_cuboid_004
+[2023.12.08-21.40.00:356][753]LogFbx: Display: Triangulating static mesh cuboid.005
+[2023.12.08-21.40.00:357][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_005...
+[2023.12.08-21.40.00:361][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_005.meteorHead_cuboid_005
+[2023.12.08-21.40.00:367][753]LogFbx: Display: Triangulating static mesh cuboid.006
+[2023.12.08-21.40.00:369][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_006...
+[2023.12.08-21.40.00:371][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_006.meteorHead_cuboid_006
+[2023.12.08-21.40.00:378][753]LogFbx: Display: Triangulating static mesh cuboid.007
+[2023.12.08-21.40.00:380][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_007...
+[2023.12.08-21.40.00:383][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_007.meteorHead_cuboid_007
+[2023.12.08-21.40.00:389][753]LogFbx: Display: Triangulating static mesh tube
+[2023.12.08-21.40.00:392][753]LogStaticMesh: Display: Building static mesh meteorHead_tube...
+[2023.12.08-21.40.00:397][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_tube.meteorHead_tube
+[2023.12.08-21.40.00:403][753]LogFbx: Display: Triangulating static mesh tube.000
+[2023.12.08-21.40.00:407][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_000...
+[2023.12.08-21.40.00:413][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_tube_000.meteorHead_tube_000
+[2023.12.08-21.40.00:419][753]LogFbx: Display: Triangulating static mesh cuboid.008
+[2023.12.08-21.40.00:422][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_008...
+[2023.12.08-21.40.00:427][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_cuboid_008.meteorHead_cuboid_008
+[2023.12.08-21.40.00:434][753]LogFbx: Display: Triangulating static mesh cuboid.009
+[2023.12.08-21.40.00:435][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_009...
+[2023.12.08-21.40.00:437][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_009.meteorHead_cuboid_009
+[2023.12.08-21.40.00:444][753]LogFbx: Display: Triangulating static mesh cuboid.010
+[2023.12.08-21.40.00:445][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_010...
+[2023.12.08-21.40.00:448][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_010.meteorHead_cuboid_010
+[2023.12.08-21.40.00:455][753]LogFbx: Display: Triangulating static mesh cylinder
+[2023.12.08-21.40.00:457][753]LogStaticMesh: Display: Building static mesh meteorHead_cylinder...
+[2023.12.08-21.40.00:459][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cylinder.meteorHead_cylinder
+[2023.12.08-21.40.00:465][753]LogFbx: Display: Triangulating static mesh tube.001
+[2023.12.08-21.40.00:468][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_001...
+[2023.12.08-21.40.00:472][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_001.meteorHead_tube_001
+[2023.12.08-21.40.00:477][753]LogFbx: Display: Triangulating static mesh tube.002
+[2023.12.08-21.40.00:479][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_002...
+[2023.12.08-21.40.00:483][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_002.meteorHead_tube_002
+[2023.12.08-21.40.00:488][753]LogFbx: Display: Triangulating static mesh tube.003
+[2023.12.08-21.40.00:490][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_003...
+[2023.12.08-21.40.00:495][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_003.meteorHead_tube_003
+[2023.12.08-21.40.00:500][753]LogFbx: Display: Triangulating static mesh tube.004
+[2023.12.08-21.40.00:502][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_004...
+[2023.12.08-21.40.00:506][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_004.meteorHead_tube_004
+[2023.12.08-21.40.00:512][753]LogFbx: Display: Triangulating static mesh tube.005
+[2023.12.08-21.40.00:513][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_005...
+[2023.12.08-21.40.00:518][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_005.meteorHead_tube_005
+[2023.12.08-21.40.00:523][753]LogFbx: Display: Triangulating static mesh tube.006
+[2023.12.08-21.40.00:525][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_006...
+[2023.12.08-21.40.00:529][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_006.meteorHead_tube_006
+[2023.12.08-21.40.00:534][753]LogFbx: Display: Triangulating static mesh tube.007
+[2023.12.08-21.40.00:536][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_007...
+[2023.12.08-21.40.00:540][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_007.meteorHead_tube_007
+[2023.12.08-21.40.00:546][753]LogFbx: Display: Triangulating static mesh tube.008
+[2023.12.08-21.40.00:548][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_008...
+[2023.12.08-21.40.00:552][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_008.meteorHead_tube_008
+[2023.12.08-21.40.00:558][753]LogFbx: Display: Triangulating static mesh cuboid.011
+[2023.12.08-21.40.00:561][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_011...
+[2023.12.08-21.40.00:566][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_cuboid_011.meteorHead_cuboid_011
+[2023.12.08-21.40.00:571][753]LogFbx: Display: Triangulating static mesh cuboid.012
+[2023.12.08-21.40.00:573][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_012...
+[2023.12.08-21.40.00:577][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_012.meteorHead_cuboid_012
+[2023.12.08-21.40.00:583][753]LogFbx: Display: Triangulating static mesh tube.009
+[2023.12.08-21.40.00:585][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_009...
+[2023.12.08-21.40.00:589][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_009.meteorHead_tube_009
+[2023.12.08-21.40.00:595][753]LogFbx: Display: Triangulating static mesh tube.010
+[2023.12.08-21.40.00:597][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_010...
+[2023.12.08-21.40.00:601][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_010.meteorHead_tube_010
+[2023.12.08-21.40.00:606][753]LogFbx: Display: Triangulating static mesh tube.011
+[2023.12.08-21.40.00:609][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_011...
+[2023.12.08-21.40.00:612][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_011.meteorHead_tube_011
+[2023.12.08-21.40.00:618][753]LogFbx: Display: Triangulating static mesh tube.012
+[2023.12.08-21.40.00:620][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_012...
+[2023.12.08-21.40.00:625][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_tube_012.meteorHead_tube_012
+[2023.12.08-21.40.00:630][753]LogFbx: Display: Triangulating static mesh tube.013
+[2023.12.08-21.40.00:632][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_013...
+[2023.12.08-21.40.00:636][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_013.meteorHead_tube_013
+[2023.12.08-21.40.00:642][753]LogFbx: Display: Triangulating static mesh tube.014
+[2023.12.08-21.40.00:644][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_014...
+[2023.12.08-21.40.00:648][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_014.meteorHead_tube_014
+[2023.12.08-21.40.00:654][753]LogFbx: Display: Triangulating static mesh tube.015
+[2023.12.08-21.40.00:656][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_015...
+[2023.12.08-21.40.00:660][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_015.meteorHead_tube_015
+[2023.12.08-21.40.00:666][753]LogFbx: Display: Triangulating static mesh cuboid.013
+[2023.12.08-21.40.00:668][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_013...
+[2023.12.08-21.40.00:673][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_013.meteorHead_cuboid_013
+[2023.12.08-21.40.00:678][753]LogFbx: Display: Triangulating static mesh cuboid.014
+[2023.12.08-21.40.00:679][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_014...
+[2023.12.08-21.40.00:684][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_cuboid_014.meteorHead_cuboid_014
+[2023.12.08-21.40.00:689][753]LogFbx: Display: Triangulating static mesh tube.016
+[2023.12.08-21.40.00:691][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_016...
+[2023.12.08-21.40.00:695][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_tube_016.meteorHead_tube_016
+[2023.12.08-21.40.00:701][753]LogFbx: Display: Triangulating static mesh tube.017
+[2023.12.08-21.40.00:702][753]LogStaticMesh: Display: Building static mesh meteorHead_tube_017...
+[2023.12.08-21.40.00:707][753]LogStaticMesh: Built static mesh [0.00s] /Game/Characters/meteorHead/meteorHead_tube_017.meteorHead_tube_017
+[2023.12.08-21.40.00:714][753]LogFbx: Display: Triangulating static mesh cuboid.015
+[2023.12.08-21.40.00:726][753]LogStaticMesh: Display: Building static mesh meteorHead_cuboid_015...
+[2023.12.08-21.40.00:738][753]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/meteorHead/meteorHead_cuboid_015.meteorHead_cuboid_015
+[2023.12.08-21.40.00:841][753]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/meteorHead/meteorHead_upper) ...
+[2023.12.08-21.40.01:324][753]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.12.08-21.40.03:109][834]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-21.40.03:115][834]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-21.40.06:071][969]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.08-21.40.20:285][418]LogDerivedDataCache: C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.259 and deleted 0 file(s) with total size 0 MiB.
+[2023.12.08-21.40.38:253][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.12.08-21.40.39:444][655]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.08-21.40.39:471][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.12.08-21.40.39:477][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.12.08-21.40.39:481][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.12.08-21.40.44:469][732]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Will/Downloads/meteorHead.obj)
+[2023.12.08-21.40.44:474][732]LogFbx: Loading FBX Scene from ../../../../../../Users/Will/Downloads/meteorHead.obj
+[2023.12.08-21.40.44:493][732]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.08-21.40.47:822][732]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.08-21.40.47:840][732]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture.charTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.40.47:844][732]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 50113D25B1747419B412B980E0202FD7A9D233EB), compiling. 
+[2023.12.08-21.40.47:847][732]LogFbx: Display: Triangulating static mesh default
+[2023.12.08-21.40.47:898][732]LogStaticMesh: Display: Building static mesh meteorHead...
+[2023.12.08-21.40.47:948][732]LogStaticMesh: Built static mesh [0.05s] /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.40.49:816][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.40.49:816][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.40.49:817][824]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2023.12.08-21.40.50:132][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.40.50:132][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.40.50:134][842]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE5C301_2100965383
+[2023.12.08-21.41.13:025][185]Cmd: DELETE
+[2023.12.08-21.41.13:025][185]Cmd: ACTOR DELETE
+[2023.12.08-21.41.13:027][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.08-21.41.13:033][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.08-21.41.13:034][185]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.12.08-21.41.18:849][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.08-21.41.20:070][525]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.08-21.41.20:084][525]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Characters/meteorHead/meteorHead.meteorHead
+	Asset Type: StaticMesh
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/charTexture.charTexture
+	Asset Type: Texture2D
+[2023.12.08-21.41.20:170][525]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: C7E78EA6D6FF88A091AA4354AA9D6B504B352360), compiling. 
+[2023.12.08-21.41.20:171][525]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.41.20:171][525]LogMaterial: Warning: m_620f6bec-fe2b-8435-e16c-d27bd7981a44: Requesting an invalid TextureIndex! (0 / 0)
+[2023.12.08-21.41.20:208][525]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE5C301_2100965383 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/FC/7SFF4TO0RCYZLFHHREAGXW.PackageMetaData in its package
+[2023.12.08-21.41.20:209][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.08-21.41.20:215][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.08-21.41.20:220][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.12.08-21.41.20:228][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.08-21.41.24:108][592]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Will/Downloads/meteorHead.obj)
+[2023.12.08-21.41.24:113][592]LogFbx: Loading FBX Scene from ../../../../../../Users/Will/Downloads/meteorHead.obj
+[2023.12.08-21.41.24:132][592]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.08-21.43.09:675][592]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.08-21.43.12:345][592]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.08-21.43.12:374][592]LogMaterial: Display: Material /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.12.08-21.43.12:376][592]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 8162C8FC15915C6B894A1276EA4CD8885F6E178B), compiling. 
+[2023.12.08-21.43.12:430][592]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture.charTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.43.12:434][592]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F453355EE561234F9F70344BDECB2988F5202C1), compiling. 
+[2023.12.08-21.43.12:435][592]LogFbx: Triangulating skeletal mesh default
+[2023.12.08-21.43.12:472][592]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.08-21.43.12:516][592]LogSkeletalMesh: Display: /Game/Characters/meteorHead/meteorHead.meteorHead ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.12.08-21.43.12:539][592]LogSkeletalMesh: Section 0: Material=0, 2783 triangles
+[2023.12.08-21.43.12:559][592]LogSkeletalMesh: Building Skeletal Mesh meteorHead...
+[2023.12.08-21.43.12:559][592]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (meteorHead) ...
+[2023.12.08-21.43.12:576][592]LogSkeletalMesh: Display: /Game/Characters/meteorHead/meteorHead.meteorHead ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.12.08-21.43.12:603][592]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.43.12:604][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-21.43.12:623][592]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.08-21.43.12:623][592]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.08-21.43.12:623][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-21.43.12:626][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-21.43.12:640][592]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.08-21.43.12:641][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-21.43.12:643][592]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: ================================================
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Total job queries 46, among them cache hits 10 (21.74%)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 3 distinct outputs (75.00%)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Shaders Compiled: 34
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 1.25 s
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 1.29
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.29 s
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Average processing rate: 3.09 jobs/sec
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.71% of total time (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display:                                                 FLumenCardVS - 29.44% of total time (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.35% of total time (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.50% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2023.12.08-21.43.12:721][593]LogShaderCompilers: Display: ================================================
+[2023.12.08-21.43.15:274][729]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-21.43.15:281][729]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-21.43.20:476][ 27]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.43.20:476][ 27]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.43.20:477][ 27]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2023.12.08-21.43.20:477][ 27]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2023.12.08-21.43.21:090][ 61]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.43.21:090][ 61]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.43.21:090][ 61]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1178180560
+[2023.12.08-21.43.21:091][ 61]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1178180560
+[2023.12.08-21.43.30:611][621]Cmd: DELETE
+[2023.12.08-21.43.30:611][621]Cmd: ACTOR DELETE
+[2023.12.08-21.43.30:613][621]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.12.08-21.43.30:619][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.12.08-21.43.30:621][621]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.12.08-21.43.33:454][780]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Characters/meteorHead/meteorHead_PhysicsAsset.meteorHead_PhysicsAsset as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2023.12.08-21.43.33:455][780]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.12.08-21.43.33:455][780]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Characters/meteorHead/meteorHead_PhysicsAsset.meteorHead_PhysicsAsset as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2023.12.08-21.43.33:607][789]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Characters/meteorHead/meteorHead_PhysicsAsset.meteorHead_PhysicsAsset as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1190696561
+[2023.12.08-21.43.33:607][789]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_UAID_145AFC370C7AE6C301_1190696561. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.12.08-21.43.33:608][789]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Characters/meteorHead/meteorHead_PhysicsAsset.meteorHead_PhysicsAsset as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1190696561
+[2023.12.08-21.43.43:196][356]Cmd: DELETE
+[2023.12.08-21.43.43:196][356]Cmd: ACTOR DELETE
+[2023.12.08-21.43.43:197][356]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.12.08-21.43.43:202][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.08-21.43.43:204][356]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.12.08-21.43.47:399][599]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/meteorHead/meteorHead_Skeleton.meteorHead_Skeleton
+[2023.12.08-21.43.47:399][599]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/meteorHead/meteorHead_Skeleton.meteorHead_Skeleton
+[2023.12.08-21.43.47:400][599]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2023.12.08-21.43.47:400][599]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2023.12.08-21.43.47:615][611]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/meteorHead/meteorHead_Skeleton.meteorHead_Skeleton
+[2023.12.08-21.43.47:615][611]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/meteorHead/meteorHead_Skeleton.meteorHead_Skeleton
+[2023.12.08-21.43.47:615][611]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1204705562
+[2023.12.08-21.43.47:616][611]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1204705562
+[2023.12.08-21.43.58:779][270]Cmd: DELETE
+[2023.12.08-21.43.58:779][270]Cmd: ACTOR DELETE
+[2023.12.08-21.43.58:780][270]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.12.08-21.43.58:786][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.08-21.43.58:788][270]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.12.08-21.44.34:385][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.08-21.44.35:650][835]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.08-21.44.35:675][835]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Characters/meteorHead/charTexture.charTexture
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/meteorHead.meteorHead
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Characters/meteorHead/meteorHead_PhysicsAsset.meteorHead_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Characters/meteorHead/meteorHead_Skeleton.meteorHead_Skeleton
+	Asset Type: Skeleton
+[2023.12.08-21.44.35:760][835]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 72E9ED019D188EF7B29B1EC23B43657EF8BB9E0B), compiling. 
+[2023.12.08-21.44.35:760][835]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.44.35:820][835]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1204705562 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/9L/H86M3390XBU0HGL7ZE2BS6.PackageMetaData in its package
+[2023.12.08-21.44.35:820][835]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1178180560 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/B6/YX0PQTD4VZDMPVVY0CDLI7.PackageMetaData in its package
+[2023.12.08-21.44.35:820][835]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_145AFC370C7AE6C301_1190696561 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/R5/9NIPI5MM646K5G460M8I8Y.PackageMetaData in its package
+[2023.12.08-21.44.35:822][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.12.08-21.44.35:828][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.08-21.44.35:832][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.12.08-21.44.35:839][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.12.08-21.45.28:285][132]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Will/Downloads/meteorHead.obj)
+[2023.12.08-21.45.28:291][132]LogFbx: Loading FBX Scene from ../../../../../../Users/Will/Downloads/meteorHead.obj
+[2023.12.08-21.45.28:309][132]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.08-21.45.30:569][132]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.08-21.45.30:593][132]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture.charTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.45.30:596][132]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 253EC5BA9C0AF818D1C97D9175AE7D518B6A667F), compiling. 
+[2023.12.08-21.45.30:599][132]LogFbx: Display: Triangulating static mesh default
+[2023.12.08-21.45.30:648][132]LogStaticMesh: Display: Building static mesh meteorHead...
+[2023.12.08-21.45.30:698][132]LogStaticMesh: Built static mesh [0.05s] /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.45.32:052][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.45.32:052][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.45.32:052][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_26
+[2023.12.08-21.45.32:070][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.45.32:070][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.45.32:071][197]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE6C301_1309160563
+[2023.12.08-21.45.49:126][196]Cmd: DELETE
+[2023.12.08-21.45.49:126][196]Cmd: ACTOR DELETE
+[2023.12.08-21.45.49:128][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.08-21.45.49:133][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.08-21.45.49:135][196]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.12.08-21.47.17:847][731]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.12.08-21.47.17:847][731]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.12.08-21.47.18:359][758]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.12.08-21.47.18:359][758]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.12.08-21.47.22:900][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.08-21.47.24:481][ 11]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.08-21.47.24:496][ 11]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Characters/meteorHead/charTexture.charTexture
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/meteorHead.meteorHead
+	Asset Type: StaticMesh
+[2023.12.08-21.47.24:579][ 11]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 1DDCC67F2BE943C7ED5EFA84A4CEDCA2682C233F), compiling. 
+[2023.12.08-21.47.24:580][ 11]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.47.24:619][ 11]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE6C301_1309160563 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IE/99LD5HY912WLPLHJI1P22L.PackageMetaData in its package
+[2023.12.08-21.47.24:619][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.08-21.47.24:625][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.08-21.47.24:631][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.12.08-21.47.24:639][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.08-21.52.07:205][983]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Will/Downloads/meteorHead.obj)
+[2023.12.08-21.52.07:210][983]LogFbx: Loading FBX Scene from ../../../../../../Users/Will/Downloads/meteorHead.obj
+[2023.12.08-21.52.07:230][983]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.08-21.52.09:814][983]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.08-21.52.09:839][983]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture.charTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.52.09:844][983]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: FD99C3231CADD2C7422D8622D0AF902166F07736), compiling. 
+[2023.12.08-21.52.09:849][983]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture_ncl1_1.charTexture_ncl1_1 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.52.09:854][983]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 149723839B1D408C89CF18BD94F5A0D6DAD20960), compiling. 
+[2023.12.08-21.52.09:860][983]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture_ncl1_2.charTexture_ncl1_2 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.52.09:862][983]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 1653D910CAC2ABC04356FD2710CA90FDA4C748BD), compiling. 
+[2023.12.08-21.52.09:865][983]LogFbx: Display: Triangulating static mesh default
+[2023.12.08-21.52.09:910][983]LogStaticMesh: Display: Building static mesh meteorHead...
+[2023.12.08-21.52.09:960][983]LogStaticMesh: Built static mesh [0.05s] /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.52.09:976][983]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'charTexture' was renamed 'charTexture_ncl1_1' 
+[2023.12.08-21.52.09:976][983]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'charTexture' was renamed 'charTexture_ncl1_2' 
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: ================================================
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Total job queries 62, among them cache hits 20 (32.26%)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 4 distinct outputs (66.67%)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Shaders Compiled: 38
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100.00%)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Average time worker was idle: 187.39 s
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.05 s
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 1.25 s
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 1.29
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.36 s
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Average processing rate: 2.54 jobs/sec
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Effective parallelization: 1.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.83 sec, max 0.96 sec, min 0.71 sec)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.74 sec, max 0.86 sec, min 0.63 sec)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 37.40% of total time (compiled    2 times, average 0.83 sec, max 0.96 sec, min 0.71 sec)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.20% of total time (compiled    2 times, average 0.74 sec, max 0.86 sec, min 0.63 sec)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.64% of total time (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.77% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2023.12.08-21.52.10:064][984]LogShaderCompilers: Display: ================================================
+[2023.12.08-21.52.13:152][117]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-21.52.13:158][117]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-21.52.16:174][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.52.16:174][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.52.16:175][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_27
+[2023.12.08-21.52.16:596][313]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.52.16:596][313]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.52.16:597][313]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE6C301_1713686564
+[2023.12.08-21.52.26:693][906]Cmd: DELETE
+[2023.12.08-21.52.26:693][906]Cmd: ACTOR DELETE
+[2023.12.08-21.52.26:695][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.08-21.52.26:700][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.08-21.52.26:702][906]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.12.08-21.57.59:103][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.12.08-21.58.00:115][396]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.08-21.58.00:132][396]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Characters/meteorHead/charTexture.charTexture
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/charTexture_ncl1_1.charTexture_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/charTexture_ncl1_2.charTexture_ncl1_2
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/meteorHead.meteorHead
+	Asset Type: StaticMesh
+[2023.12.08-21.58.00:217][396]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 in PCD3D_SM5, Default, SM5 (DDC key hash: AA26F8F1B963C325F82A79963CDE209602065397), compiling. 
+[2023.12.08-21.58.00:217][396]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.58.00:221][396]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 478CA46625EF308E74ACB8CB06386FC49F9D40D9), compiling. 
+[2023.12.08-21.58.00:221][396]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.58.00:223][396]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 30DC38A61172F4B1BA0521A473F2719319B44D5E), compiling. 
+[2023.12.08-21.58.00:224][396]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.58.00:299][396]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE6C301_1713686564 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CN/HJ65OR9VMTOFB6YTJAR64I.PackageMetaData in its package
+[2023.12.08-21.58.00:300][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.08-21.58.00:306][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.08-21.58.00:311][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.08-21.58.00:320][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.12.08-21.58.04:489][464]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Will/Downloads/meteorHead.obj)
+[2023.12.08-21.58.04:494][464]LogFbx: Loading FBX Scene from ../../../../../../Users/Will/Downloads/meteorHead.obj
+[2023.12.08-21.58.04:514][464]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.08-21.58.21:695][464]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.08-21.58.21:720][464]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture.charTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.58.21:724][464]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 02A8657BCC3CF52CB9234AA239723C0C3C4BBCB9), compiling. 
+[2023.12.08-21.58.21:729][464]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture_ncl1_1.charTexture_ncl1_1 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.58.21:736][464]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 85605603FD9F73144D731BEE2B598052D85A650D), compiling. 
+[2023.12.08-21.58.21:741][464]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture_ncl1_2.charTexture_ncl1_2 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-21.58.21:745][464]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 74D8595B9A4D9B757A6B77563E485D2212372212), compiling. 
+[2023.12.08-21.58.21:746][464]LogFbx: Display: Triangulating static mesh default
+[2023.12.08-21.58.21:792][464]LogStaticMesh: Display: Building static mesh meteorHead...
+[2023.12.08-21.58.21:842][464]LogStaticMesh: Built static mesh [0.05s] /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.58.21:846][464]LogStaticMesh: Warning: meteorHead has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.12.08-21.58.21:847][464]LogStaticMesh: Warning: meteorHead has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2023.12.08-21.58.21:847][464]LogStaticMesh: Warning: meteorHead has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.12.08-21.58.21:847][464]LogStaticMesh: Warning: meteorHead has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.12.08-21.58.21:856][464]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'charTexture' was renamed 'charTexture_ncl1_1' 
+[2023.12.08-21.58.21:856][464]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'charTexture' was renamed 'charTexture_ncl1_2' 
+[2023.12.08-21.58.21:856][464]FBXImport: Warning: meteorHead has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.12.08-21.58.21:856][464]FBXImport: Warning: meteorHead has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2023.12.08-21.58.21:856][464]FBXImport: Warning: meteorHead has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.12.08-21.58.21:856][464]FBXImport: Warning: meteorHead has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: ================================================
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Total job queries 78, among them cache hits 32 (41.03%)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 4 distinct outputs (28.57%)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Shaders Compiled: 38
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100.00%)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Average time worker was idle: 482.72 s
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 1.97 s
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Job life time (pending + execution): average 1.49 s, max 2.04
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.40 s
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Average processing rate: 3.18 jobs/sec
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.32 sec, max 1.53 sec, min 0.92 sec)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.20 sec, max 1.57 sec, min 0.71 sec)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.09 sec, max 1.46 sec, min 0.63 sec)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.58 sec, max 0.70 sec, min 0.39 sec)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 32.33% of total time (compiled    4 times, average 1.20 sec, max 1.57 sec, min 0.71 sec)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.26% of total time (compiled    4 times, average 1.09 sec, max 1.46 sec, min 0.63 sec)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.68% of total time (compiled    3 times, average 1.32 sec, max 1.53 sec, min 0.92 sec)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.73% of total time (compiled    3 times, average 0.58 sec, max 0.70 sec, min 0.39 sec)
+[2023.12.08-21.58.21:944][465]LogShaderCompilers: Display: ================================================
+[2023.12.08-21.58.24:615][607]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-21.58.24:622][607]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-21.58.26:721][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.58.26:721][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.58.26:721][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_28
+[2023.12.08-21.58.26:970][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.58.26:970][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-21.58.26:971][738]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE6C301_2084060565
+[2023.12.08-21.58.33:838][144]Cmd: DELETE
+[2023.12.08-21.58.33:838][144]Cmd: ACTOR DELETE
+[2023.12.08-21.58.33:840][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.08-21.58.33:844][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.08-21.58.33:847][144]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.12.08-21.58.37:696][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.08-21.58.38:645][367]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.08-21.58.38:659][367]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Characters/meteorHead/meteorHead.meteorHead
+	Asset Type: StaticMesh
+	Asset Name: /Game/Characters/meteorHead/charTexture_ncl1_1.charTexture_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/charTexture_ncl1_2.charTexture_ncl1_2
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/charTexture.charTexture
+	Asset Type: Texture2D
+[2023.12.08-21.58.38:745][367]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 2C449BB83954D1AE4231BB57B9C6EEB9C7C7F1D4), compiling. 
+[2023.12.08-21.58.38:745][367]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.58.38:748][367]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 1EAB2A928FAC7E60BD673A59BDB12D0772F8E484), compiling. 
+[2023.12.08-21.58.38:749][367]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.58.38:751][367]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 887A79FB2B1F8349E54A7F3D0BECA8C1C565F518), compiling. 
+[2023.12.08-21.58.38:751][367]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-21.58.38:827][367]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE6C301_2084060565 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AD/IUGWDP6YREZB49XOTTEFKJ.PackageMetaData in its package
+[2023.12.08-21.58.38:828][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.08-21.58.38:833][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.08-21.58.38:839][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.12.08-21.58.38:849][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.08-22.08.26:859][426]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Will/Downloads/meteorHead.obj)
+[2023.12.08-22.08.26:865][426]LogFbx: Loading FBX Scene from ../../../../../../Users/Will/Downloads/meteorHead.obj
+[2023.12.08-22.08.26:885][426]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.08-22.08.33:166][426]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.08-22.08.33:192][426]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture.charTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-22.08.33:195][426]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 57B1FE45AE37A51CC6A08E912EE5B064F865E944), compiling. 
+[2023.12.08-22.08.33:204][426]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 635D864304C60DCC23EA7D9F64986BC2A147254A), compiling. 
+[2023.12.08-22.08.33:206][426]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture_ncl1_1.charTexture_ncl1_1 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-22.08.33:209][426]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture_ncl1_2.charTexture_ncl1_2 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-22.08.33:213][426]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 04D2880520E9002450362EF314AD85C1469DD35B), compiling. 
+[2023.12.08-22.08.33:215][426]LogFbx: Display: Triangulating static mesh default
+[2023.12.08-22.08.33:263][426]LogStaticMesh: Display: Building static mesh meteorHead...
+[2023.12.08-22.08.33:313][426]LogStaticMesh: Built static mesh [0.05s] /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.08.33:317][426]LogStaticMesh: Warning: meteorHead has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.12.08-22.08.33:317][426]LogStaticMesh: Warning: meteorHead has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2023.12.08-22.08.33:317][426]LogStaticMesh: Warning: meteorHead has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.12.08-22.08.33:317][426]LogStaticMesh: Warning: meteorHead has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.12.08-22.08.33:327][426]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'charTexture' was renamed 'charTexture_ncl1_1' 
+[2023.12.08-22.08.33:327][426]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'charTexture' was renamed 'charTexture_ncl1_2' 
+[2023.12.08-22.08.33:327][426]FBXImport: Warning: meteorHead has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.12.08-22.08.33:327][426]FBXImport: Warning: meteorHead has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2023.12.08-22.08.33:327][426]FBXImport: Warning: meteorHead has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.12.08-22.08.33:327][426]FBXImport: Warning: meteorHead has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.12.08-22.08.33:420][427]LogShaderCompilers: Display: ================================================
+[2023.12.08-22.08.33:420][427]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.08-22.08.33:420][427]LogShaderCompilers: Display: Total job queries 96, among them cache hits 50 (52.08%)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 4 distinct outputs (28.57%)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Shaders Compiled: 38
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100.00%)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Average time worker was idle: 482.72 s
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 1.97 s
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Job life time (pending + execution): average 1.49 s, max 2.04
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.40 s
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Average processing rate: 3.18 jobs/sec
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.32 sec, max 1.53 sec, min 0.92 sec)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.20 sec, max 1.57 sec, min 0.71 sec)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.09 sec, max 1.46 sec, min 0.63 sec)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.58 sec, max 0.70 sec, min 0.39 sec)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 32.33% of total time (compiled    4 times, average 1.20 sec, max 1.57 sec, min 0.71 sec)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.26% of total time (compiled    4 times, average 1.09 sec, max 1.46 sec, min 0.63 sec)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.68% of total time (compiled    3 times, average 1.32 sec, max 1.53 sec, min 0.92 sec)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.73% of total time (compiled    3 times, average 0.58 sec, max 0.70 sec, min 0.39 sec)
+[2023.12.08-22.08.33:421][427]LogShaderCompilers: Display: ================================================
+[2023.12.08-22.08.35:372][528]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-22.08.35:379][528]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-22.08.40:949][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.08.40:949][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.08.40:949][849]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_29
+[2023.12.08-22.08.42:131][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.08.42:131][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.08.42:131][918]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_30
+[2023.12.08-22.08.42:466][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.08.42:466][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.08.42:466][937]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE7C301_1625814742
+[2023.12.08-22.09.40:403][369]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002
+[2023.12.08-22.09.40:408][369]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 534617309CC3FF0087A939FA43549BF9DFBC9ED5), compiling. 
+[2023.12.08-22.09.40:437][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-22.09.40:627][369]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B7627259ED73CFB0815093EBCC08B2EC1DBD209), compiling. 
+[2023.12.08-22.09.40:630][369]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EF2007605456360D1E3C6982C6AC9DF5CCF9A898), compiling. 
+[2023.12.08-22.09.40:646][369]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.08-22.09.40:646][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.08-22.09.40:646][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.08-22.09.40:646][369]MaterialEditorStats: Shader Count: 0
+[2023.12.08-22.09.40:653][369]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.08-22.09.40:655][369]LogViewport: Scene viewport resized to 240x244, mode Windowed.
+[2023.12.08-22.09.40:959][371]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.08-22.09.40:959][371]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.08-22.09.40:959][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.08-22.09.40:959][371]MaterialEditorStats: Shader Count: 4
+[2023.12.08-22.09.44:061][531]LogSlate: Window 'm_620f6bec-fe2b-8435-e16c-d27bd7981a44_002' being destroyed
+[2023.12.08-22.09.44:068][531]LogSlate: Window 'm_620f6bec-fe2b-8435-e16c-d27bd7981a44_002' being destroyed
+[2023.12.08-22.09.44:077][531]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.12.08-22.09.44:077][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.08-22.09.47:963][758]Cmd: DELETE
+[2023.12.08-22.09.47:963][758]Cmd: ACTOR DELETE
+[2023.12.08-22.09.47:964][758]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.08-22.09.47:972][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.08-22.09.47:973][758]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.12.08-22.09.49:129][828]Cmd: TRANSACTION UNDO
+[2023.12.08-22.09.49:141][828]LogEditorTransaction: Undo Delete Elements
+[2023.12.08-22.09.54:798][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.08-22.09.55:642][143]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.08-22.09.55:668][143]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_002
+	Asset Type: Material
+[2023.12.08-22.09.55:770][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.12.08-22.09.55:776][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.08-22.09.55:780][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.12.08-22.10.03:745][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.08-22.10.04:872][608]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.08-22.10.04:897][608]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Characters/meteorHead/charTexture.charTexture
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/charTexture_ncl1_1.charTexture_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/charTexture_ncl1_2.charTexture_ncl1_2
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001
+	Asset Type: Material
+	Asset Name: /Game/Characters/meteorHead/meteorHead.meteorHead
+	Asset Type: StaticMesh
+[2023.12.08-22.10.04:981][608]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 377A087BC9EF8253CD140346AFCE2F651DFCF182), compiling. 
+[2023.12.08-22.10.04:981][608]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001.m_620f6bec-fe2b-8435-e16c-d27bd7981a44_001 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-22.10.04:984][608]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: B44639C8D7297C5E5805B5DCE07A984EF62C1B97), compiling. 
+[2023.12.08-22.10.04:984][608]LogMaterial: Warning: [AssetLog] /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.08-22.10.05:043][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.12.08-22.10.05:048][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.08-22.10.05:054][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.12.08-22.10.27:982][  3]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Will/Downloads/meteorHead.obj)
+[2023.12.08-22.10.27:990][  3]LogFbx: Loading FBX Scene from ../../../../../../Users/Will/Downloads/meteorHead.obj
+[2023.12.08-22.10.28:015][  3]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.08-22.10.29:580][  3]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.08-22.10.29:608][  3]LogTexture: Display: Building textures: /Game/Characters/meteorHead/charTexture.charTexture (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.12.08-22.10.29:612][  3]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: BCCE04FB8D1A0885DA6033CF638F9F55603D36AC), compiling. 
+[2023.12.08-22.10.29:615][  3]LogFbx: Display: Triangulating static mesh default
+[2023.12.08-22.10.29:657][  3]LogStaticMesh: Display: Building static mesh meteorHead...
+[2023.12.08-22.10.29:709][  3]LogStaticMesh: Built static mesh [0.05s] /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.10.29:714][  3]LogStaticMesh: Warning: meteorHead has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2023.12.08-22.10.29:714][  3]LogStaticMesh: Warning: meteorHead has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.12.08-22.10.29:725][  3]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.12.08-22.10.29:725][  3]FBXImport: Warning: meteorHead has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2023.12.08-22.10.29:725][  3]FBXImport: Warning: meteorHead has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.12.08-22.10.30:409][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.12.08-22.10.30:419][ 10]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005213 seconds
+[2023.12.08-22.10.30:424][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/R3/EJ1R91BRQ33HD0OVY9KE6E_Auto1
+[2023.12.08-22.10.30:424][ 10]LogSavePackage: Moving '../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/Saved/EJ1R91BRQ33HD0OVY9KE6E_Auto1FD7239D044D1B4A3E59E75AE54B20C15.tmp' to '../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/R3/EJ1R91BRQ33HD0OVY9KE6E_Auto1.uasset'
+[2023.12.08-22.10.30:426][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2023.12.08-22.10.30:426][ 10]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2023.12.08-22.10.30:427][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/meteorHead/meteorHead] ([1] browsable assets)...
+[2023.12.08-22.10.30:472][ 10]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead]
+[2023.12.08-22.10.30:472][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/meteorHead/meteorHead]
+[2023.12.08-22.10.30:481][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/meteorHead/meteorHead_Auto1
+[2023.12.08-22.10.30:483][ 10]LogSavePackage: Moving '../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/Saved/meteorHead_Auto1D8D4AE664AC4824CFFAD398FAAF43AE7.tmp' to '../../../../../../Users/Will/Documents/Unreal Projects/meteorHead/Saved/Autosaves/Game/Characters/meteorHead/meteorHead_Auto1.uasset'
+[2023.12.08-22.10.30:483][ 10]LogFileHelpers: Auto-saving content packages took 0.058
+[2023.12.08-22.10.33:210][171]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-22.10.33:218][171]LogSlate: Window 'Message Log' being destroyed
+[2023.12.08-22.10.47:235][997]Cmd: DELETE
+[2023.12.08-22.10.47:235][997]Cmd: ACTOR DELETE
+[2023.12.08-22.10.47:237][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.08-22.10.47:243][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.08-22.10.47:246][997]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.12.08-22.10.49:443][120]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.10.49:443][120]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.10.49:443][120]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_31
+[2023.12.08-22.10.49:529][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.10.49:529][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead
+[2023.12.08-22.10.49:529][125]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/meteorHead/meteorHead.meteorHead as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_145AFC370C7AE7C301_1752877743
+[2023.12.08-22.11.14:219][553]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/meteorHead/m_620f6bec-fe2b-8435-e16c-d27bd7981a44.m_620f6bec-fe2b-8435-e16c-d27bd7981a44
+[2023.12.08-22.11.14:220][553]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: D7D08FAB76BCA05532D3734D22D1240FBB578A19), compiling. 
+[2023.12.08-22.11.14:237][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.08-22.11.14:353][553]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: DE44DBF950D8C16C8363BA81FCFBB085324B0164), compiling. 
+[2023.12.08-22.11.14:359][553]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 3323C97EBEE1E43CA9A355FB57D51E6C6A49AFFA), compiling. 
+[2023.12.08-22.11.14:360][553]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CCD2AFB616F33165F4B291E49EF6EA1837562180), compiling. 
+[2023.12.08-22.11.14:378][553]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.08-22.11.14:378][553]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.08-22.11.14:378][553]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.08-22.11.14:378][553]MaterialEditorStats: Shader Count: 0
+[2023.12.08-22.11.14:466][553]LogViewport: Scene viewport resized to 240x245, mode Windowed.
+[2023.12.08-22.11.14:535][555]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.08-22.11.14:535][555]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.08-22.11.14:535][555]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.08-22.11.14:535][555]MaterialEditorStats: Shader Count: 4
+[2023.12.08-22.11.15:513][605]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2023.12.08-22.11.17:778][729]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 21C54A5C12AF1A83147FC02C944A3192FD48ABE3), compiling. 
+[2023.12.08-22.11.17:783][729]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 81DBB077FB1047B05D342DE5FC90819AB75356A7), compiling. 
+[2023.12.08-22.11.17:787][729]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E6DD251B7D2E69B6C5701D05DBABC12CAF7738B), compiling. 
+[2023.12.08-22.11.17:789][729]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.08-22.11.17:789][729]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.08-22.11.17:789][729]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.08-22.11.17:789][729]MaterialEditorStats: Shader Count: 0
+[2023.12.08-22.11.19:272][768]MaterialEditorStats: Texture samplers: 1/16
+[2023.12.08-22.11.19:272][768]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.08-22.11.19:272][768]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.08-22.11.19:272][768]MaterialEditorStats: Shader Count: 2
+[2023.12.08-22.11.20:135][792]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.08-22.11.20:135][792]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.08-22.11.20:135][792]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.08-22.11.20:135][792]MaterialEditorStats: Shader Count: 5
+[2023.12.08-22.11.21:730][871]LogMaterialEditor: Saving and Compiling material m_620f6bec-fe2b-8435-e16c-d27bd7981a44
+[2023.12.08-22.11.22:143][871]LogMaterial: Display: Missing cached shadermap for Preview:m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: B92F6E6E9D53D9720F1EB3628FE5828E84F59216), compiling. 
+[2023.12.08-22.11.22:152][871]LogMaterial: Display: Missing cached shadermap for m_620f6bec-fe2b-8435-e16c-d27bd7981a44 in PCD3D_SM5, Default, SM5 (DDC key hash: 456003698B07BEFF3CDCD680681C923EA93499CC), compiling. 
+[2023.12.08-22.11.22:208][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.12.08-22.11.23:211][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
